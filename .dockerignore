@@ -1,0 +1,26 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+LICENSE
+
+# Docker
+Dockerfile.*
+
+# Scripts
+Makefile
+
+# IDE
+.vscode
+.idea
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.tar.gz
+*.deb
